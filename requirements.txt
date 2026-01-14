@@ -1,0 +1,8 @@
+langchain
+langchain-ollama
+langchain-community
+pydantic
+langgraph
+duckduckgo-search
+daytona-sdk
+tavily-python
